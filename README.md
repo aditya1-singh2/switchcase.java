@@ -1,6 +1,8 @@
 # switchcase.java
 by Aditya
- import java.util.Scanner;
+
+
+import java.util.Scanner;
     public static void main(String[] args) {
         // TODO code application logic here
         int choice;
